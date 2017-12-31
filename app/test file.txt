@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Chnages Made by atul
+=======
+Hi Team I have made these changes. Amod
+>>>>>>> 770c5027c994682ebe95786be17f02f304bc0677
